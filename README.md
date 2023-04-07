@@ -5,7 +5,7 @@
 ___
 
 - 🔭 I'm learning programming and scripting to better ground myself in Cybersecurity and DevOps.
-- 👩‍💻 I use [TryHackMe](https://tryhackme.com/p/TurboYetiii) and [PentesterLab](https://pentesterlab.com/profile/YetiLike) + other resources for practical learning of Cybersec concepts.
+- 👩‍💻 I use [TryHackMe](https://tryhackme.com/p/TurboYetiii) and [PentesterLab](https://pentesterlab.com/profile/YetiLike) (and other resources) for practical learning of Cybersec concepts.
 - 🖥 I use Github to keep me accountable and adapt what I've learned into real-world processes and practices.
 - ✨ I hope to be able to reach a point where my learned skills will help me actively contribute to the wonderful world of open-source.
 
