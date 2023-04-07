@@ -5,9 +5,9 @@
 ___
 
 - 🔭 I'm learning programming and scripting to better ground myself in Cybersecurity and DevOps.
-- 👩‍💻 I currently use [TryHackMe](https://tryhackme.com/p/TurboYetiii) and [PentesterLab](https://pentesterlab.com/profile/YetiLike) for practical learning of Cybersec concepts; as well as any other resources I am able to access.
+- 👩‍💻 I use [TryHackMe](https://tryhackme.com/p/TurboYetiii) and [PentesterLab](https://pentesterlab.com/profile/YetiLike) + other resources for practical learning of Cybersec concepts.
 - 🖥 I use Github to keep me accountable and adapt what I've learned into real-world processes and practices.
-- ✨ I hope to be able to reach a point where I can actively contribute to the wonderful world of open-source.
+- ✨ I hope to be able to reach a point where my learned skills will help me actively contribute to the wonderful world of open-source.
 
 ___
 
@@ -29,7 +29,7 @@ ___
 <h2 align="center"> 🤔 I’m looking for help with </h2>
   
   - **Being a better scripter/programmer**: Any resources or tips that have helped you on your journey would be greatly appreciated!
-  - **Unix and Bash**: Still getting used to the environment and syntax for Unix. I'm working towards the Linux Essentials Certification but could always use additional help. Any tips would be a massive help.
+  - **Unix and Bash**: Still getting used to the environment and syntax for Unix. I'm working towards the Linux Essentials Certification and could use some help.
   - **Collaboration**: Collaboration can sometimes substitute for not having a mentor in these spaces. I'm happy to work on projects to help me improve coding and security practices.
   - **Book Recommendations!**: In my downtime, I'd normally unwind with a good book. I appreciate any recommendations you may have. 😁
   - **Aprendiendo el idioma de español**: ¿Puedes ayudarme aprender español?
