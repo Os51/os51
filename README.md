@@ -29,9 +29,10 @@ ___
 <h2 align="center"> 🤔 I’m looking for help with </h2>
   
   - **Being a better scripter/programmer**: Any resources or tips that have helped you on your journey would be greatly appreciated!
-  - **Help with Unix and Bash**: Still getting used to the environment and syntax for Unix. I'm working towards the Linux Essentials Certification but any other tips would be a massive help.
+  - **Unix and Bash**: Still getting used to the environment and syntax for Unix. I'm working towards the Linux Essentials Certification but could always use additional help. Any tips would be a massive help.
   - **Collaboration**: Collaboration can sometimes substitute for not having a mentor in these spaces. I'm happy to work on projects to help me improve coding and security practices.
-  - **Good books!**: I like to read in my downtime so appreciate any book recommendations you may have. 😁
+  - **Book Recommendations!**: In my downtime, I'd normally unwind with a good book. I appreciate any recommendations you may have. 😁
+  - **Aprendiendo el idioma de español**: ¿Puedes ayudarme aprender español?
 
 ___
 
