@@ -1,11 +1,11 @@
 <p align="center">
-  🙏🏿 <i>Don't let anyone ruin your day, ruin it youself.</i> 🙏🏿
+  <i>There's a hole in the sky, through which I can fly ✈️.</i>
 </p>
 
 ___
 
 - 🔭 I'm learning programming and scripting to better ground myself in Cybersecurity and DevOps.
-- 👩‍💻 I use [TryHackMe](https://tryhackme.com/p/TurboYetiii) and [PentesterLab](https://pentesterlab.com/profile/YetiLike) (and other resources) for practical learning of Cybersec concepts.
+- 👩‍💻 I use [TryHackMe](https://tryhackme.com/p/Y3T1), [PentesterLab](https://pentesterlab.com/profile/YetiLike) and [HackTheBox](https://app.hackthebox.com/profile/813441) for practical Cybersec training.
 - 🖥 I'm utilising Github to keep me accountable on my journey and use what I've learned in real-world practices.
 - ✨ I hope to be able to reach a point where I'll be able to contribute to the wonderful world of open-source.
 
