@@ -19,7 +19,7 @@ ___
   <img src="/images/Gnu-bash-logo.svg.png" width="44" height="44" alt="Bash" /> <img src="/images/ps_black_128.svg" width="44" height="44" alt="Powershell"/> <img src="/images/1280px-Python-logo-notext.svg.png" width="44" height="44" alt="Python"/> <img src="/images/C_Programming_Language.svg.png" width="44" height="44" alt="C" /> <img src="/images/C-Sharp_1.png" width="44" height="44" alt="C#" />  
   
   - ### 🖥 Platforms
-  <img src="/images/Tux.svg.png" width="44" height="44" alt="Linux/Unix" /> <img src="/images/AzureLogo.png" width="44" height="44" alt="Azure" />
+  <img src="/images/Tux.svg.png" width="44" height="44" alt="Linux/Unix" /> <img src="/images/AzureLogo.png" width="44" height="44" alt="Azure" /> <img src="/images/WindowsLogo.png" width="44" height="44" alt="Windows" />
 
 <br />
 <br />
@@ -29,7 +29,7 @@ ___
 <h2 align="center"> 🤔 I’m looking for help with </h2>
   
   - **Being a better scripter/programmer**: Any resources or tips that have helped you on your journey would be greatly appreciated!
-  - **Unix and Bash**: Still getting used to the environment and syntax for Unix. I'm working towards the Linux Essentials Certification and could use some help.
+  - **Unix and Bash**: Still getting used to the environment and syntax for Unix, specifically Debian and Red Hat.
   - **Collaboration**: Collaboration can sometimes substitute for not having a mentor in these spaces. I'm happy to work on projects to help me improve coding and security practices.
   - **Book Recommendations!**: In my downtime, I'd normally unwind with a good book. I appreciate any recommendations you may have. 😁
   - **Aprendiendo el idioma de español**: ¿Puedes ayudarme aprender español?
@@ -45,6 +45,7 @@ ___
   <a href="https://www.giac.org/certifications/security-essentials-gsec/" target="_blank" rel="noreferrer"><img src="/images/GSEC2.png" width="96" height="96" alt="GSEC" /></a>
   <a href="https://pythoninstitute.org/pcep/" target="_blank" rel="noreferrer"><img src="/images/pcep_cert_badge.png" width="96" height="96" alt="PCEP" /></a>
   <a href="https://www.jamf.com/training/online-training/100/" target="_blank" rel="noreferrer"> <img src="/images/Jamf100.png" width="96" height="96" alt="Jamf 100" /></a>
+  <a href="https://www.lpi.org/our-certifications/linux-essentials-overview/" target="_blank" rel="noreferrer"> <img src="/images/Essentials-Linux.png" width="96" height="96" alt="Linux Essentials" /></a>
 
  </p> 
   
