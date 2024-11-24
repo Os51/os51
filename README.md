@@ -19,8 +19,7 @@ ___
   <img src="/images/Gnu-bash-logo.svg.png" width="44" height="44" alt="Bash" /> <img src="/images/ps_black_128.svg" width="44" height="44" alt="Powershell"/> <img src="/images/1280px-Python-logo-notext.svg.png" width="44" height="44" alt="Python"/> <img src="/images/C_Programming_Language.svg.png" width="44" height="44" alt="C" /> <img src="/images/C-Sharp_1.png" width="44" height="44" alt="C#" />  
   
   - ### 🖥 Platforms
-  <img src="/images/Tux.svg.png" width="44" height="44" alt="Linux/Unix" /> <img src="/images/AzureLogo.png" width="44" height="44" alt="Azure" /> <img src="/images/WindowsLogo.png" width="44" height="44" alt="Windows" />
-
+  <img src="/images/Tux.svg.png" width="44" height="44" alt="Linux/Unix" /> <img src="/images/AzureLogo.png" width="44" height="44" alt="Azure" />
 <br />
 <br />
 
