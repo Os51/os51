@@ -38,7 +38,7 @@ ___
   <a href="https://elearnsecurity.com/product/ejpt-certification/" target="_blank" rel="noreferrer"> <img src="images/eJPT-200x149.png" width="96" height="96" alt="eJPT" /></a>
   <a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noreferrer"> <img src="/images/AWS-CCP.png" width="96" height="96" alt="AWS CCP" /></a>
   <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank" rel="noreferrer"><img src="/images/microsoft-certified-fundamentals-badge.svg" width="96" height="96" alt="AZ-900: Azure Fundamentals" /></a>
-  <a href="https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/" target="_blank" rel="noreferrer"><img src="/images/microsoft-certified-fundamentals-badge.svg" width="96" height="96" alt="SC-900: Security, Complaince and Identity" /></a>
+  <a href="https://learn.microsoft.com/en-us/credentials/certifications/security-compliance-and-identity-fundamentals" target="_blank" rel="noreferrer"><img src="/images/microsoft-certified-fundamentals-badge.svg" width="96" height="96" alt="SC-900: Security, Complaince and Identity" /></a>
   <a href="https://training.cyberark.com/category/trustee" target="_blank" rel="noreferrer"> <img src="/images/Certifications-SeeSaw-Trustee2.png" width="96" height="96" alt="CyberArk Trustee" /></a>
   <a href="https://www.giac.org/certifications/security-essentials-gsec/" target="_blank" rel="noreferrer"><img src="/images/GSEC2.png" width="96" height="96" alt="GSEC" /></a>
   <a href="https://www.giac.org/certifications/penetration-tester-gpen/" target="_blank" rel="noreferrer"><img src="/images/gpen_badge.png" width="96" alt="GPEN" /></a>
