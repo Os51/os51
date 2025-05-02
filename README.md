@@ -19,10 +19,10 @@ ___
   <img src="/images/Gnu-bash-logo.svg.png" width="44" height="44" alt="Bash" /> <img src="/images/ps_black_128.svg" width="44" height="44" alt="Powershell"/> <img src="/images/1280px-Python-logo-notext.svg.png" width="44" height="44" alt="Python"/> <img src="/images/C_Programming_Language.svg.png" width="44" height="44" alt="C" /> 
   
   - ### 🖥 Platforms
-  <img src="/images/UbuntuCoF.png" width="44" height="44" alt="Ubuntu" /> <img src="/images/Red_Hat_logo.png" width="44" height="44" alt="Red Hat" /> <img src="/images/Windows_logo_-_2021.png" width="44" height="44" alt="Windows" /> <img src="/images/AzureLogo.png" width="44" height="44" alt="Azure" /> <img src="/images/Amazon_Web_Services_Logo.png" width="44" height="44" alt="AWS" />
+  <img src="/images/Amazon_Web_Services_Logo.png" width="48" height="40" alt="AWS" /> <img src="/images/UbuntuCoF.png" width="44" height="44" alt="Ubuntu" /> <img src="/images/Red_Hat_logo.png" width="44" height="44" alt="Red Hat" /> <img src="/images/Windows_logo_-_2021.png" width="44" height="44" alt="Windows" /> <img src="/images/AzureLogo.png" width="44" height="44" alt="Azure" />
 <br />
 <br />
-
+<br />
 ___
 
 <h2 align="center"> 🤔 I’m looking for help with </h2>
